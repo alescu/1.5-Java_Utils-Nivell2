@@ -22,30 +22,30 @@ Descripció - Enunciat de l'exercici
 
 Tecnologies Utilitzades
 
-    Llista de tecnologies, llibreries i eines utilitzades en el desenvolupament de l'exercici.
-
+    Java 21.
+	IntelliJ IDEA Community Edition 2024.1.1
 
 Requisits
 
-    Especificacions dels requisits necessaris per a poder executar el projecte, com ara versions de programari, dependències, etc.
-
-
+    Java 21
+	
 Instal·lació
 
-    Passos necessaris per a la instal·lació del projecte en un entorn local.
+    Clonar o copiar el projecte en una carpeta local.
+	Compilar el projecte. preferiblement amb Java >21
 
 
 Execució
-
-    Instruccions per a l'execució del projecte un cop instal·lat.
+	Modificar el properties per adatar els directoris on treballar.
+    Executar el Main
 
 
 Desplegament
 
-    Instruccions per al desplegament del projecte en un entorn de producció o servidor.
-
 
 Contribucions
 
-    Normes i guies per a contribuir al projecte, si escau.
+    Clonar o copiar el projecte en una carpeta local.
+	Crear i treballar sobre un branch propi en cas de ser necessari.
+	
 

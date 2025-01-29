@@ -51,7 +51,7 @@ public class Main {
         File file = new File(directoriOrigen);
         if(!file.exists() || !file.isDirectory()){
             System.out.println("No és un directori d'origen vàlid o no existeix.");
-            System.out.println("El caràcter separador ha de ser " + File.separator);
+            System.out.println("El caràcter separador ha de ser " + File.separator + ". \\ en cas de sistemas Windows.");
             System.out.println("El directori ha d'existir.");
             return;
         }
@@ -59,7 +59,7 @@ public class Main {
         file = new File(directoriFinal);
         if(!file.exists() || !file.isDirectory()){
             System.out.println("No és un directori final vàlid o no existeix.");
-            System.out.println("El caràcter separador ha de ser " + File.separator);
+            System.out.println("El caràcter separador ha de ser " + File.separator + ". \\ en cas de sistemas Windows.");
             System.out.println("El directori ha d'existir.");
             return;
         }
